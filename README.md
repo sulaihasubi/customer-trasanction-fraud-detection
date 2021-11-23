@@ -5,7 +5,7 @@
 [![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/sulaihasubi)
 
 ## About this Project
-Since Github have limitation of size to support the files upload which is up to 200mb per files, so you can explore about this project with Dataiku DSS by downloading the file with the link provided as below:
+Since Github have limitation of size to support the files upload which is up to 200 MB per files, so you can explore about this project with Dataiku DSS by downloading the file with the link provided as below:
 <br/>
 <br/>
 [![Google Drive](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Drive&color=4285F4&logo=Google+Drive&logoColor=FFFFFF&label=)](https://drive.google.com/file/d/1_EPwzJOzUndSiYEUeOTy6ReBFAtoRYtn/view?usp=sharing)
@@ -14,6 +14,11 @@ After downloading the files, you can simply import this files directly into your
 
 
 ## Introduction
+In this project, machine learning model will predict the probability an online transaction being fraudulent, as indicated by the binary target **isFraud**.
+
+The data is divided into two files, identification and transaction, which are linked together by TransactionID. Not all transactions are associated with a unique identifier.
+
+
 ![Alt Text](https://github.com/sulaihasubi/customer-trasanction-fraud-detection/blob/main/images/transaction.gif)
 
 ## 📖 Problem Statements
