@@ -14,7 +14,7 @@ After downloading the files, you can simply import this files directly into your
 
 
 ## Introduction
-
+![Alt Text](https://github.com/sulaihasubi/insurance-claims-fraud-detection/blob/main/images/dataset.png)
 
 ## 📖 Problem Statements
 
