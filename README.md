@@ -18,18 +18,28 @@ In this project, machine learning model will predict the probability an online t
 
 The data is divided into two files, identification and transaction, which are linked together by TransactionID. Not all transactions are associated with a unique identifier.
 
-
+This ML Model developed end-to-end with Dataiku DSS Platform.
 ![Alt Text](https://github.com/sulaihasubi/customer-trasanction-fraud-detection/blob/main/images/transaction.gif)
 
 ## 📖 Problem Statements
+Consider yourself at the grocery store check-out counter, a large queue behind you, and the cashier not-so-quietly reveals that your card has been declined. You're probably not thinking about the data science that influenced your fate right now.
 
+Embarrassed, but convinced that you have enough money to have an awesome nacho party for 50 of your best friends, you try your card again. The same outcome. You receive a text message from your bank as you step aside to enable the cashier to assist the next client. "If you truly attempted to spend $500 on cheddar cheese, press 1."
+
+Therefore, with Dataiku DSS Platform, I wanted to enhance this figure while also increasing the client experience with this project. With improved accuracy fraud detection, customers able to go back to business with their chips.
+
+The goal of this ML Model:
+1. Built machine learning models on a challenging large-scale e-commerce transactions dataset
+2. To help business to reduce fraud loss and increase their revenue
+3. To provide best solutions for fraud prevention
 
 ## 📊 About the Dataset
 To download the dataset, you may get it from [here](https://www.kaggle.com/c/ieee-fraud-detection/data).
 
-This dataset collected from Auto Insurance in USA States, contains 1000 rows with 34 coloumns. Retrieved from [here]( https://github.com/mwitiderrick/insurancedata/blob/master/insurance_claims.csv)
-<br/>
-<br/>
+This dataset provided by Vesta Corporation, guaranteed e-commerce payment solutions. Retrieved from [here]( https://www.kaggle.com/c/ieee-fraud-detection/data)
+
+The data is derived from real-world e-commerce transactions conducted by Vesta and includes a wide range of variables ranging from device type to product specifications.
+
 ![Alt Text](https://github.com/sulaihasubi/insurance-claims-fraud-detection/blob/main/images/dataset.png)
 
 
