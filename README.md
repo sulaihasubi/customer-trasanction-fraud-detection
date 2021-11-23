@@ -43,13 +43,13 @@ The data is derived from real-world e-commerce transactions conducted by Vesta a
 ![Alt Text](https://github.com/sulaihasubi/customer-trasanction-fraud-detection/blob/main/images/dataset.png)
 
 
-<!-- ## 🖥 The Flow
+## 🖥 The Flow
 In DSS, the Flow is the visual representation of how data, recipes, and models work together to move data through an analytical pipeline. The Flow in DSS has an awareness of the relationships and dependencies between datasets in the project.
 <br/>
 <br/>
-![Alt Text](https://github.com/sulaihasubi/insurance-claims-fraud-detection/blob/main/images/FLOW.png)
+![Alt Text](https://github.com/sulaihasubi/customer-trasanction-fraud-detection/blob/main/images/flow.png)
 
-## 📊 Statistic Card 
+<!--## 📊 Statistic Card 
 In DSS, a Card is used to perform a specific Exploratory Data Analysis (EDA) task.
 <br/>
 <br/>
