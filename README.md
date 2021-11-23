@@ -40,7 +40,7 @@ This dataset provided by Vesta Corporation, guaranteed e-commerce payment soluti
 
 The data is derived from real-world e-commerce transactions conducted by Vesta and includes a wide range of variables ranging from device type to product specifications.
 
-![Alt Text](https://github.com/sulaihasubi/insurance-claims-fraud-detection/blob/main/images/dataset.png)
+![Alt Text](https://github.com/sulaihasubi/customer-trasanction-fraud-detection/blob/main/images/dataset.png)
 
 
 <!-- ## 🖥 The Flow
