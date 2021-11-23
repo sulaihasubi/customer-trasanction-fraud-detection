@@ -28,7 +28,7 @@ This dataset collected from Auto Insurance in USA States, contains 1000 rows wit
 ![Alt Text](https://github.com/sulaihasubi/insurance-claims-fraud-detection/blob/main/images/dataset.png)
 
 
-## 🖥 The Flow
+<!-- ## 🖥 The Flow
 In DSS, the Flow is the visual representation of how data, recipes, and models work together to move data through an analytical pipeline. The Flow in DSS has an awareness of the relationships and dependencies between datasets in the project.
 <br/>
 <br/>
@@ -188,4 +188,4 @@ The Decision chart also shows the location of the optimal cut-off (based on the 
 
 2. Hyperparameter Optimization
 ------------------------------
-![Alt Text](https://github.com/sulaihasubi/insurance-claims-fraud-detection/blob/main/images/hyperparameter.png)
+![Alt Text](https://github.com/sulaihasubi/insurance-claims-fraud-detection/blob/main/images/hyperparameter.png) -->
