@@ -4,6 +4,15 @@
 [![Kaggle](https://img.shields.io/static/v1?style=for-the-badge&message=Kaggle&color=222222&logo=Kaggle&logoColor=20BEFF&label=)](https://www.kaggle.com/c/ieee-fraud-detection/overview/description)
 [![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/sulaihasubi)
 
+## ✍🏻 Table of Contents
+- [About this Project](#about-this-project)
+- [Introduction](#introduction)
+- [📖 Problem Statements](#-problem-statements)
+- [📊 About the Dataset](#-about-the-dataset)
+- [🖥 The Flow](#-the-flow)
+- [📊 Statistic Card](#-statistic-card)
+- [🤖 Create Machine Learning Model (Auto ML) & Analysed the Results - Training Models](#-create-machine-learning-model-auto-ml--analysed-the-results---training-models)
+
 ## About this Project
 Since Github have limitation of size to support the files upload which is up to 200 MB per files, so you can explore about this project with Dataiku DSS by downloading the file with the link provided as below:
 <br/>
