@@ -28,8 +28,6 @@ In this project, machine learning model will predict the probability an online t
 The data is divided into two files, identification and transaction, which are linked together by TransactionID. Not all transactions are associated with a unique identifier.
 ![Alt Text](https://github.com/sulaihasubi/customer-trasanction-fraud-detection/blob/main/images/workflow.png)
 
-
-
 This ML Model developed end-to-end with Dataiku DSS Platform.
 ![Alt Text](https://github.com/sulaihasubi/customer-trasanction-fraud-detection/blob/main/images/transaction.gif)
 
