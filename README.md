@@ -9,13 +9,14 @@
 </a>
 
 ## ✍🏻 Table of Contents
-- [About this Project](#about-this-project)
-- [Introduction](#introduction)
-- [📖 Problem Statements](#-problem-statements)
-- [📊 About the Dataset](#-about-the-dataset)
-- [🖥 The Flow](#-the-flow)
-<!-- - [📊 Statistic Card](#-statistic-card)
-- [🤖 Create Machine Learning Model (Auto ML) & Analysed the Results - Training Models](#-create-machine-learning-model-auto-ml--analysed-the-results---training-models) -->
+|  |  |
+|-|-|
+| :ledger: [About this Project](#about-this-project) | Brief description about the projects|
+| :floppy_disk: [Introduction](#introduction) | Introduction |
+| [📖 Problem Statements](#-problem-statements) | Problem Statements |
+| [📊 About the Dataset](#-about-the-dataset) | About the Dataset |
+| [🖥 The Flow](#-the-flow) | Workflow |
+
 
 ## About this Project
 Since Github have limitation of size to support the files upload which is up to 200 MB per files, so you can explore about this project with Dataiku DSS by downloading the file with the link provided as below:
