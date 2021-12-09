@@ -3,9 +3,14 @@
 [![Dataiku](https://img.shields.io/static/v1?style=for-the-badge&message=Dataiku&color=2AB1AC&logo=Dataiku&logoColor=FFFFFF&label=)](https://community.dataiku.com/t5/user/viewprofilepage/user-id/7023)
 [![Kaggle](https://img.shields.io/static/v1?style=for-the-badge&message=Kaggle&color=222222&logo=Kaggle&logoColor=20BEFF&label=)](https://www.kaggle.com/c/ieee-fraud-detection/overview/description)
 [![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/sulaihasubi)
-
 <a href="https://github.com/sulaihasubi/customer-trasanction-fraud-detection/commits/master">
         <img alt="Last commit" src="https://img.shields.io/github/last-commit/sulaihasubi/customer-trasanction-fraud-detection">
+</a>
+
+## :heart: Contributor
+
+<a href="https://github.com/sulaihasubi/customer-trasanction-fraud-detection/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=sulaihasubi/customer-trasanction-fraud-detection" />
 </a>
 
 ## ✍🏻 Table of Contents
